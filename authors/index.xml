@@ -19,6 +19,7 @@
       <guid>https://GUIAD-COVID.github.io/authors/guiad/</guid>
       <description>&lt;p&gt;El grupo GUIAD-COVID19 está integrado por investigadores de diferentes áreas, vinculados a la Universidad de la República de Uruguay.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Alicia Aleman - Instituto de Higiene, Facultad de Medicina&lt;/li&gt;
 &lt;li&gt;Ignacio Alvarez-Castro (Nachalca) -  PhD en estadística. IESTA, Facultad de Ciencias Económicas.&lt;/li&gt;
 &lt;li&gt;Matías Arim - PhD en ecología, modelado de ecología de poblaciones. Cure Maldonado.&lt;/li&gt;
 &lt;li&gt;Zaida Arteta - médico, infectóloga. Cát. Enfermedades Infecciosas,  Facultad de Medicina.&lt;/li&gt;
@@ -40,11 +41,19 @@
 &lt;li&gt;Daiana Mir - PhD. Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte.&lt;/li&gt;
 &lt;li&gt;Guillermo Moncecchi - PhD en Procesamiento de lenguaje Natural. Instituto de Computación, Facultad de Ingeniería&lt;/li&gt;
 &lt;li&gt;Daniela Paciel - Médica, intensivista, infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina&lt;/li&gt;
-&lt;li&gt;Javier Pintos&lt;/li&gt;
+&lt;li&gt;Javier Pintos - Instituto de Higiene, Facultad de Medicina&lt;/li&gt;
 &lt;li&gt;Héctor Romero (Yuyo) - PhD en genómica. Secc. Evolución del Genoma, Facultad de Ciencias&lt;/li&gt;
 &lt;li&gt;Juan Ignacio Sanguinetti - PhD en neurociencia, Secc. Neurociencias, Facultad de Ciencias / Harvard University.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GUIAD-COVID.github.io/authors/aaleman/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/authors/aaleman/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -57,9 +66,49 @@
     
     <item>
       <title></title>
+      <link>https://GUIAD-COVID.github.io/authors/hbotti/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/authors/hbotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GUIAD-COVID.github.io/authors/hromero/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/authors/hromero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GUIAD-COVID.github.io/authors/isanguinetti/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/authors/isanguinetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GUIAD-COVID.github.io/authors/jpintos/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/authors/jpintos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://GUIAD-COVID.github.io/authors/marim/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/authors/marim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GUIAD-COVID.github.io/authors/mfariello/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/authors/mfariello/</guid>
       <description></description>
     </item>
     
