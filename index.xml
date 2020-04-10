@@ -55,11 +55,13 @@
     </item>
     
     <item>
-      <title>Reportes 1 y 2 del grupo GUIAD-COVID 19 en pocas palabras</title>
+      <title>Reportes 1 y 2 del grupo GUIAD-COVID 19</title>
       <link>https://GUIAD-COVID.github.io/post/reportes1-2/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/post/reportes1-2/</guid>
-      <description>&lt;p&gt;Los dos reportes ahondan en una serie de ideas que creemos son importantes comprender a esta altura de la situación. Se basan en el análisis de datos de Covid-19 en Uruguay, en el estudio de modelos internacionales y en bagaje académico de las áreas de matemática, computación, epidemiología, ecología y medicina.&lt;/p&gt;
+      <description>&lt;p&gt;Los dos reportes ahondan en una serie de ideas que creemos son importantes comprender a esta altura de la situación. Se basan en el análisis de datos de Covid-19 en Uruguay, en el estudio de modelos internacionales y en bagaje académico de las áreas de matemática, computación, epidemiología, ecología y medicina. Puede descargarlos desde la sección 
+&lt;a href=&#34;#publications&#34;&gt;Reportes Técnicos&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;Modelar la dinámica de la enfermedad en Uruguay en tiempo real es muy valioso pero es difícil, debido a la alta tasa de contagio de la enfermedad, su tiempo de incubación, la gran variedad de cuadros en los que se presenta, pasando desapercibida en un gran porcentaje de infectados, hasta la internación en otro tanto y la heterogeneidad de sus efectos según la edad.&lt;/p&gt;
 &lt;p&gt;Las herramientas de modelado epidemiológico están siendo usadas en todo el mundo para seguir el transcurso de la epidemia. A pesar de que los científicos nos podemos basar en los trabajos que surgen del exterior, es de vital importancia establecer y validar modelos específicos para las características de nuestro país.&lt;/p&gt;
 &lt;p&gt;Para poder hacerlo, es clave contar con datos fiables y lo más completos posibles. Los datos nos permiten, por ejemplo, calcular parámetros de crecimiento de la enfermedad. Si utilizamos datos de otros países vemos una gran incertidumbre acerca de el futuro de la enfermedad. Necesitamos mejores datos para tener una mejor estimación específica para Uruguay. Estos datos nos permitirían, entre otras muchas posibilidades  estimar el efecto que nuestro distanciamiento social tiene en el crecimiento de la enfermedad, o estimar la cantidad de casos reales en nuestro país.&lt;/p&gt;
