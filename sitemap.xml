@@ -3,27 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://GUIAD-COVID.github.io/data/ejemplo/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GUIAD-COVID.github.io/data/ejemplo-copy/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GUIAD-COVID.github.io/data/ejemplo/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://GUIAD-COVID.github.io/data/estadisticasuy/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GUIAD-COVID.github.io/data/ejemplo/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://GUIAD-COVID.github.io/integrantes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://GUIAD-COVID.github.io/objetivos/</loc>
   </url>
   
   <url>
     <loc>https://GUIAD-COVID.github.io/links/</loc>
+  </url>
+  
+  <url>
+    <loc>https://GUIAD-COVID.github.io/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,11 +46,6 @@
   
   <url>
     <loc>https://GUIAD-COVID.github.io/categories/</loc>
-    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GUIAD-COVID.github.io/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
