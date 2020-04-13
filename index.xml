@@ -28,11 +28,11 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;fecha&lt;/td&gt;
-&lt;td&gt;dia calendario en que se informaron estos datos&lt;/td&gt;
+&lt;td&gt;día calendario en que se informaron estos datos&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;dia&lt;/td&gt;
-&lt;td&gt;dia correlativo desde el 13 de marzo, cuando se anunció el primer caso&lt;/td&gt;
+&lt;td&gt;día&lt;/td&gt;
+&lt;td&gt;día correlativo desde el 13 de marzo, cuando se anunció el primer caso&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantPersonasConInfeccionEnCurso&lt;/td&gt;
@@ -149,7 +149,7 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
     </item>
     
     <item>
-      <title>Estadísticas de todo el pais</title>
+      <title>Estadísticas de todo el país</title>
       <link>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy/</guid>
@@ -164,51 +164,51 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;fecha&lt;/td&gt;
-&lt;td&gt;dia calendario en que se informaron estos datos&lt;/td&gt;
+&lt;td&gt;día calendario en que se informaron estos datos&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;dia&lt;/td&gt;
-&lt;td&gt;dia correlativo desde el 13 de marzo, cuando se anunció el primer caso&lt;/td&gt;
+&lt;td&gt;día&lt;/td&gt;
+&lt;td&gt;día correlativo desde el 13 de marzo, cuando se anunció el primer caso&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantTest&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;cantidad de tests&lt;/strong&gt;&lt;sup&gt;1&lt;/sup&gt; realizados ese dia&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;cantidad de tests&lt;/strong&gt;&lt;sup&gt;1&lt;/sup&gt; realizados ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;acumTest&lt;/td&gt;
-&lt;td&gt;acumulado de la cantidad de tests realizados hasta ese dia&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de tests realizados hasta ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantTestPositivos&lt;/td&gt;
-&lt;td&gt;cantidad de tests positivos de ese dia&lt;/td&gt;
+&lt;td&gt;cantidad de tests positivos de ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;acumTestPositivos&lt;/td&gt;
-&lt;td&gt;acumulado de la cantidad de tests positivos hasta ese dia&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de tests positivos hasta ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantCTI&lt;/td&gt;
-&lt;td&gt;cantidad de pacientes reportados en CTI ese dia&lt;/td&gt;
+&lt;td&gt;cantidad de pacientes reportados en CTI ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantCI&lt;/td&gt;
-&lt;td&gt;cantidad de pacientes reportados en CI ese dia&lt;/td&gt;
+&lt;td&gt;cantidad de pacientes reportados en CI ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantFallecidos&lt;/td&gt;
-&lt;td&gt;cantidad de fallecidos reportados ese dia&lt;/td&gt;
+&lt;td&gt;cantidad de fallecidos reportados ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;acumFallecidos&lt;/td&gt;
-&lt;td&gt;acumulado de la cantidad de fallecidos hasta ese dia&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de fallecidos hasta ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantRecuperados&lt;/td&gt;
-&lt;td&gt;cantidad de pacientes recuperados reportados ese dia&lt;/td&gt;
+&lt;td&gt;cantidad de pacientes recuperados reportados ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;acumRecuperados&lt;/td&gt;
-&lt;td&gt;acumulado de la cantidad de recuperados hasta ese dia&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de recuperados hasta ese día&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -217,7 +217,7 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
 &lt;a href=&#34;https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;informes de situación publicados por el MSP&lt;/a&gt;
 .
 El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponibles o faltantes en los reportes.&lt;/p&gt;
-&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; Notar que siempre se hace referencia a cantidad de tests y no cantidad de personas. Sobre algunas personas se realizan tests más de una vez por lo que la cantidad de infectados es menor o igual a la cantidad de tests positivos.&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; Nótese que siempre se hace referencia a cantidad de tests y no cantidad de personas. Sobre algunas personas se realizan tests más de una vez por lo que la cantidad de infectados es menor o igual a la cantidad de tests positivos.&lt;/p&gt;
 &lt;h2 id=&#34;enlaces&#34;&gt;Enlaces&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -247,9 +247,9 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
 &lt;p&gt;Nuestros recientes estudios sugieren que, para Uruguay, los datos de casos publicados oficialmente presentan lo que se llama un crecimiento &lt;em&gt;subexponencial&lt;/em&gt;. El crecimiento subexponencial es un crecimiento que no acelera con las características exponenciales anteriormente mencionadas. Este tipo de crecimiento es común en muchas epidemias y puede tener diferentes razones de ser. Tales razones pueden ser interpretadas como escenarios tanto positivos como negativos.&lt;/p&gt;
 &lt;p&gt;Sugerimos &lt;strong&gt;dos explicaciones posibles&lt;/strong&gt; para el  crecimiento subexponencial de datos confirmados en uruguay&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;La enfermedad crece de manera subexponencial.
+&lt;li&gt;La enfermedad crece de manera subexponencial. 
 Las intervenciones sociales impuestas por el estado han tenido un efecto de retrasar el crecimiento de la enfermedad y están actuando como fuerzas que contraponen el crecimiento exponencial.&lt;/li&gt;
-&lt;li&gt;El crecimiento subexponencial de los datos se debe al muestreo.
+&lt;li&gt;El crecimiento subexponencial de los datos se debe al muestreo. 
 Este crecimiento subexponencial no se debe necesariamente a un crecimiento resistido de la enfermedad, sino a desviaciones producidas por nuestras capacidades y decisiones de testeo. Es decir, que lo que se mide, no es proporcional a la cantidad de contagios real.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Nuevamente, para poder saber cuál es la causa, y con ello que se puedan mejorar aún más las medidas necesarias, es fundamental tener más datos de las estrategias de muestreo diagnóstico en Uruguay. Por ahora, es importante notar que en cualquiera de los dos casos, &lt;strong&gt;las tasas de crecimiento subexponenciales pueden rápidamente revertirse en un crecimiento exponencial&lt;/strong&gt;. Esto significa que a pesar de que los datos parecen crecer lentamente, y de forma subexponencial, es importante &lt;strong&gt;mantener las medidas recomendadas por el MSP&lt;/strong&gt;.&lt;/p&gt;
