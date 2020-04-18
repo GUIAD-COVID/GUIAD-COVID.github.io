@@ -35,10 +35,6 @@
 &lt;td&gt;día correlativo desde el 13 de marzo, cuando se anunció el primer caso&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;cantPersonasConInfeccionEnCurso&lt;/td&gt;
-&lt;td&gt;cantidad de personas que actualmente cursan la infección&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td&gt;cantDeptosAfectados&lt;/td&gt;
 &lt;td&gt;cantidad de departamentos que presentan alguna persona con infección en curso&lt;/td&gt;
 &lt;/tr&gt;
@@ -185,6 +181,14 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
 &lt;tr&gt;
 &lt;td&gt;acumTestPositivos&lt;/td&gt;
 &lt;td&gt;acumulado de la cantidad de tests positivos hasta ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantPersonasConInfeccionEnCurso&lt;/td&gt;
+&lt;td&gt;cantidad de personas que actualmente cursan la infección&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumCasos&lt;/td&gt;
+&lt;td&gt;cantidad de casos acumulados hasta el momento (cantPersonasConInfeccionEnCurso +acumRecuperados+cantFallecidos )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;cantCTI&lt;/td&gt;
