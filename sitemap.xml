@@ -30,6 +30,11 @@
   </url>
   
   <url>
+    <loc>https://GUIAD-COVID.github.io/data/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://GUIAD-COVID.github.io/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
@@ -55,12 +60,12 @@
   </url>
   
   <url>
-    <loc>https://GUIAD-COVID.github.io/categories/reportes/</loc>
+    <loc>https://GUIAD-COVID.github.io/tags/reportes/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GUIAD-COVID.github.io/tags/reportes/</loc>
+    <loc>https://GUIAD-COVID.github.io/categories/reportes/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -146,10 +151,6 @@
   
   <url>
     <loc>https://GUIAD-COVID.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://GUIAD-COVID.github.io/data/</loc>
   </url>
   
 </urlset>
