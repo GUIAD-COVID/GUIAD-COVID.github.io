@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dinámica de crecimiento | GUIAD-COVID-19</title>
-    <link>https://GUIAD-COVID.github.io/tags/dinamica-de-crecimiento/</link>
-      <atom:link href="https://GUIAD-COVID.github.io/tags/dinamica-de-crecimiento/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dinámica de crecimiento</description>
+    <title>GUIAD-COVID-19</title>
+    <link>https://GUIAD-COVID.github.io/authors/pbermolen/</link>
+      <atom:link href="https://GUIAD-COVID.github.io/authors/pbermolen/index.xml" rel="self" type="application/rss+xml" />
+    <description>GUIAD-COVID-19</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Dinámica de crecimiento</title>
-      <link>https://GUIAD-COVID.github.io/tags/dinamica-de-crecimiento/</link>
+      <title>GUIAD-COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/authors/pbermolen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://GUIAD-COVID.github.io/publication/nota3/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/publication/nota3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reporte 2: Crecimiento Subexponencial de los casos confirmados</title>
-      <link>https://GUIAD-COVID.github.io/publication/nota2/</link>
-      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://GUIAD-COVID.github.io/publication/nota2/</guid>
       <description></description>
     </item>
     
