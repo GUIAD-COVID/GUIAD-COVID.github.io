@@ -5,12 +5,34 @@
     <link>https://GUIAD-COVID.github.io/authors/guiad/</link>
       <atom:link href="https://GUIAD-COVID.github.io/authors/guiad/index.xml" rel="self" type="application/rss+xml" />
     <description>GUIAD-COVID-19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GUIAD-COVID-19</title>
       <link>https://GUIAD-COVID.github.io/authors/guiad/</link>
     </image>
+    
+    <item>
+      <title>Reporte 5 del grupo GUIAD-COVID 19</title>
+      <link>https://GUIAD-COVID.github.io/post/reporte5/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/reporte5/</guid>
+      <description>&lt;p&gt;En este nota se analiza una aproximación lineal de un modelo compartimental SEIR (Susceptible, Expuestos, Infectados, Recuperados) considerando los Infectados separados en dos grupos: Documentados y No Documentados. Esta aproximación (justificada por el bajo número de infectados registrados en Uruguay) permite de manera sencilla analizar el comportamiento de la cantidad de infectados. En particular, se pueden resolver explícitamente las ecuaciones involucradas y se obtienen soluciones que se expresan mediante combinaciones lineales de exponenciales, ajustando a los datos de Uruguay mediante un método de regresión no lineal. Se detectan tres dinámicas que se superponen  y generan la dinámica que observamos. De éstas, dos tienen coeficientes negativos y una coeficiente levemente positivo, lo que apoyaría la idea que el crecimiento observado es efectivamente subexponencial. Si los coeficientes se mantuvieran igual, la epidemia seguiría controlada. Estos ajustes permiten una predicción del número de individuos infectados con 20-30% de error con dos semanas de antelación y en condiciones de parámetros constantes, aunque no permiten efectuar predicciones sobre el efecto de cambios en el nivel de aislamiento social (como, por ejemplo, la vuelta de la actividad en el sector de la construcción). De todos modos modos, podrían usarse para detectar cambios en el comportamiento de la dinámica de la epidemia El reporte completo puede  descargarse desde 
+&lt;a href=&#34;#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reporte 4 del grupo GUIAD-COVID 19</title>
+      <link>https://GUIAD-COVID.github.io/post/reporte4/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/reporte4/</guid>
+      <description>&lt;p&gt;Diferentes medidas de control se aplican en diferentes países para interrumpir o disminuir al máximo la transmisión del virus causante de COVID-19. Se aplican con diferente intensidad y en diferentes momentos de la evolución de la epidemia, y uno de sus objetivos principales es evitar el desborde de los servicios de salud provocado por un incremento acelerado de casos graves. La evidencia existente muestra que una combinación de diversas medidas de aislamiento y distanciamiento físico reducen de manera marcada la transmisión del virus. La mayoría de las estimaciones del impacto tiene un alto grado de imprecisión, y es muy difícil cuantificar la contribución de cada una de las medidas dado que en general se ha aplicado una combinación de las mismas. Una de las intervenciones más eficaces es la identificación y cuarentena temprana de contactos, que podría evitar 44% a 81% de nuevos casos y 31% a 63% de todas las muertes. El reporte completo puede  descargarse desde 
+&lt;a href=&#34;#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Reporte 3 del grupo GUIAD-COVID 19</title>

@@ -5,7 +5,7 @@
     <link>https://GUIAD-COVID.github.io/categories/</link>
       <atom:link href="https://GUIAD-COVID.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Categories</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Reportes</title>
       <link>https://GUIAD-COVID.github.io/categories/reportes/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/categories/reportes/</guid>
       <description></description>
     </item>
