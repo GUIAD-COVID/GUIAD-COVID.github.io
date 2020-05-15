@@ -246,7 +246,7 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/post/reporte5/</guid>
       <description>&lt;p&gt;En este nota se analiza una aproximación lineal de un modelo compartimental SEIR (Susceptible, Expuestos, Infectados, Recuperados) considerando los Infectados separados en dos grupos: Documentados y No Documentados. Esta aproximación (justificada por el bajo número de infectados registrados en Uruguay) permite de manera sencilla analizar el comportamiento de la cantidad de infectados. En particular, se pueden resolver explícitamente las ecuaciones involucradas y se obtienen soluciones que se expresan mediante combinaciones lineales de exponenciales, ajustando a los datos de Uruguay mediante un método de regresión no lineal. Se detectan tres dinámicas que se superponen  y generan la dinámica que observamos. De éstas, dos tienen coeficientes negativos y una coeficiente levemente positivo, lo que apoyaría la idea que el crecimiento observado es efectivamente subexponencial. Si los coeficientes se mantuvieran igual, la epidemia seguiría controlada. Estos ajustes permiten una predicción del número de individuos infectados con 20-30% de error con dos semanas de antelación y en condiciones de parámetros constantes, aunque no permiten efectuar predicciones sobre el efecto de cambios en el nivel de aislamiento social (como, por ejemplo, la vuelta de la actividad en el sector de la construcción). De todos modos modos, podrían usarse para detectar cambios en el comportamiento de la dinámica de la epidemia El reporte completo puede  descargarse desde 
-&lt;a href=&#34;#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -257,7 +257,7 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/post/reporte4/</guid>
       <description>&lt;p&gt;Diferentes medidas de control se aplican en diferentes países para interrumpir o disminuir al máximo la transmisión del virus causante de COVID-19. Se aplican con diferente intensidad y en diferentes momentos de la evolución de la epidemia, y uno de sus objetivos principales es evitar el desborde de los servicios de salud provocado por un incremento acelerado de casos graves. La evidencia existente muestra que una combinación de diversas medidas de aislamiento y distanciamiento físico reducen de manera marcada la transmisión del virus. La mayoría de las estimaciones del impacto tiene un alto grado de imprecisión, y es muy difícil cuantificar la contribución de cada una de las medidas dado que en general se ha aplicado una combinación de las mismas. Una de las intervenciones más eficaces es la identificación y cuarentena temprana de contactos, que podría evitar 44% a 81% de nuevos casos y 31% a 63% de todas las muertes. El reporte completo puede  descargarse desde 
-&lt;a href=&#34;#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -305,7 +305,7 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/post/reportes1-2/</guid>
       <description>&lt;p&gt;Los dos reportes ahondan en una serie de ideas que creemos son importantes comprender a esta altura de la situación. Se basan en el análisis de datos de Covid-19 en Uruguay, en el estudio de modelos internacionales y en bagaje académico de las áreas de matemática, computación, epidemiología, ecología y medicina. Puede descargarlos desde la sección 
-&lt;a href=&#34;#publications&#34;&gt;Reportes Técnicos&lt;/a&gt;
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes Técnicos&lt;/a&gt;
 .&lt;/p&gt;
 &lt;p&gt;Modelar la dinámica de la enfermedad en Uruguay en tiempo real es muy valioso pero es difícil, debido a la alta tasa de contagio de la enfermedad, su tiempo de incubación, la gran variedad de cuadros en los que se presenta, pasando desapercibida en un gran porcentaje de infectados, hasta la internación en otro tanto y la heterogeneidad de sus efectos según la edad.&lt;/p&gt;
 &lt;p&gt;Las herramientas de modelado epidemiológico están siendo usadas en todo el mundo para seguir el transcurso de la epidemia. A pesar de que los científicos nos podemos basar en los trabajos que surgen del exterior, es de vital importancia establecer y validar modelos específicos para las características de nuestro país.&lt;/p&gt;
