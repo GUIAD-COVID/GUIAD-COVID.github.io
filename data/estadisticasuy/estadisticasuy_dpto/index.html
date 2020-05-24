@@ -28,7 +28,8 @@
   
     
   
-  <meta name="description" content="Metadatos    Columna Descripción     fecha día calendario en que se informaron estos datos   día día correlativo desde el 13 de marzo, cuando se anunció el primer caso   cantDeptosAfectados cantidad de departamentos que presentan alguna persona con infección en curso   Artigas (UY-AR ) cantidad de casos1 en el departamento de Artigas (UY-AR )   Canelones (UY-CA ) cantidad de casos en el departamento de Canelones (UY-CA )   Cerro Largo (UY-CL ) cantidad de casos en el departamento de Cerro Largo (UY-CL )   Colonia (UY-CO ) cantidad de casos en el departamento de Colonia (UY-CO )   Durazno (UY-DU ) cantidad de casos en el departamento de Durazno (UY-DU )   Flores (UY-FS ) cantidad de casos en el departamento de Flores (UY-FS )   Florida (UY-FD ) cantidad de casos en el departamento de Florida (UY-FD )   Lavalleja (UY-LA ) cantidad de casos en el departamento de Lavalleja (UY-LA )   Maldonado (UY-MA ) cantidad de casos en el departamento de Maldonado (UY-MA )   Montevideo (UY-MO ) cantidad de casos en el departamento de Montevideo (UY-MO )   Paysandú (UY-PA ) cantidad de casos en el departamento de Paysandú (UY-PA )   Río Negro (UY-RN ) cantidad de casos en el departamento de Río Negro (UY-RN )   Rivera (UY-RV ) cantidad de casos en el departamento de Rivera (UY-RV )   Rocha (UY-RO ) cantidad de casos en el departamento de Rocha (UY-RO )   Salto (UY-SA ) cantidad de casos en el departamento de Salto (UY-SA )   San José (UY-SJ ) cantidad de casos en el departamento de San José (UY-SJ )   Soriano (UY-SO ) cantidad de casos en el departamento de Soriano (UY-SO )   Tacuarembó (UY-TA ) cantidad de casos en el departamento de Tacuarembó (UY-TA )   Treinta y Tres (UY-TT ) cantidad de casos en el departamento de Treinta y Tres (UY-TT )    1 La cantidad de casos se reporta de la siguiente manera:">
+  <meta name="description" content="Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).
+Origen de los datos Hasta el 7/4/2020 los datos son extraídos de los informes de situación publicados por el MSP . El valor N/A se utiliza para indicar valores no disponibles o faltantes en los reportes.">
 
   
   <link rel="alternate" hreflang="es" href="https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/">
@@ -234,7 +235,8 @@
   <meta property="og:site_name" content="GUIAD-COVID-19">
   <meta property="og:url" content="https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/">
   <meta property="og:title" content="Estadísticas por departamento | GUIAD-COVID-19">
-  <meta property="og:description" content="Metadatos    Columna Descripción     fecha día calendario en que se informaron estos datos   día día correlativo desde el 13 de marzo, cuando se anunció el primer caso   cantDeptosAfectados cantidad de departamentos que presentan alguna persona con infección en curso   Artigas (UY-AR ) cantidad de casos1 en el departamento de Artigas (UY-AR )   Canelones (UY-CA ) cantidad de casos en el departamento de Canelones (UY-CA )   Cerro Largo (UY-CL ) cantidad de casos en el departamento de Cerro Largo (UY-CL )   Colonia (UY-CO ) cantidad de casos en el departamento de Colonia (UY-CO )   Durazno (UY-DU ) cantidad de casos en el departamento de Durazno (UY-DU )   Flores (UY-FS ) cantidad de casos en el departamento de Flores (UY-FS )   Florida (UY-FD ) cantidad de casos en el departamento de Florida (UY-FD )   Lavalleja (UY-LA ) cantidad de casos en el departamento de Lavalleja (UY-LA )   Maldonado (UY-MA ) cantidad de casos en el departamento de Maldonado (UY-MA )   Montevideo (UY-MO ) cantidad de casos en el departamento de Montevideo (UY-MO )   Paysandú (UY-PA ) cantidad de casos en el departamento de Paysandú (UY-PA )   Río Negro (UY-RN ) cantidad de casos en el departamento de Río Negro (UY-RN )   Rivera (UY-RV ) cantidad de casos en el departamento de Rivera (UY-RV )   Rocha (UY-RO ) cantidad de casos en el departamento de Rocha (UY-RO )   Salto (UY-SA ) cantidad de casos en el departamento de Salto (UY-SA )   San José (UY-SJ ) cantidad de casos en el departamento de San José (UY-SJ )   Soriano (UY-SO ) cantidad de casos en el departamento de Soriano (UY-SO )   Tacuarembó (UY-TA ) cantidad de casos en el departamento de Tacuarembó (UY-TA )   Treinta y Tres (UY-TT ) cantidad de casos en el departamento de Treinta y Tres (UY-TT )    1 La cantidad de casos se reporta de la siguiente manera:"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:description" content="Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).
+Origen de los datos Hasta el 7/4/2020 los datos son extraídos de los informes de situación publicados por el MSP . El valor N/A se utiliza para indicar valores no disponibles o faltantes en los reportes."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="es">
   
     
@@ -610,9 +612,14 @@
 
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#metadatos">Metadatos</a></li>
     <li><a href="#origen-de-los-datos">Origen de los datos</a></li>
     <li><a href="#enlaces">Enlaces</a></li>
+    <li><a href="#metadatos">Metadatos</a>
+      <ul>
+        <li><a href="#metadatos-para-los-datos-detallados-de-cada-departamento">Metadatos para los datos detallados de cada departamento</a></li>
+        <li><a href="#metadatos-para-el-total-de-activos-por-departamento">Metadatos para el total de activos por departamento</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
 
@@ -628,7 +635,76 @@
           <h1>Estadísticas por departamento</h1>
 
           <div class="article-style">
-            <h2 id="metadatos">Metadatos</h2>
+            <p>Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).</p>
+<h2 id="origen-de-los-datos">Origen de los datos</h2>
+<p>Hasta el 7/4/2020 los datos son extraídos de los 
+<a href="https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay" target="_blank" rel="noopener">informes de situación publicados por el MSP</a>
+.
+El valor <code>N/A</code> se utiliza para indicar valores no disponibles o faltantes en los reportes.</p>
+<p>A partir del 9/4/2020 los datos se extraen del [Visualizador de casos coronavirus COVID-19 en Uruguay] (<a href="https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay">https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay</a>)</p>
+<h2 id="enlaces">Enlaces</h2>
+<ul>
+<li>
+<p>
+<a href="https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto.csv" target="_blank" rel="noopener">Cantidad de activos por departamento en formato CSV</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto_detalle.csv" target="_blank" rel="noopener">Datos detallados por departamento en formato CSV</a>
+</p>
+</li>
+</ul>
+<h2 id="metadatos">Metadatos</h2>
+<h3 id="metadatos-para-los-datos-detallados-de-cada-departamento">Metadatos para los datos detallados de cada departamento</h3>
+<table>
+<thead>
+<tr>
+<th>Columna</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fecha</td>
+<td>día calendario en que se informaron estos datos</td>
+</tr>
+<tr>
+<td>departamento</td>
+<td>departamento de Uruguay</td>
+</tr>
+<tr>
+<td>enCurso</td>
+<td>cantidad de personas que actualmente cursan la infección</td>
+</tr>
+<tr>
+<td>cantCasosNuevos</td>
+<td><strong>cantidad de casos nuevos</strong> <sup>2</sup> identificados ese dia</td>
+</tr>
+<tr>
+<td>cantFallecidos</td>
+<td>cantidad de fallecidos reportados ese día</td>
+</tr>
+<tr>
+<td>acumFallecidos</td>
+<td>acumulado de la cantidad de fallecidos hasta ese día</td>
+</tr>
+<tr>
+<td>cantRecuperados</td>
+<td>cantidad de pacientes recuperados reportados ese día</td>
+</tr>
+<tr>
+<td>acumRecuperados</td>
+<td>acumulado de la cantidad de recuperados hasta ese día</td>
+</tr>
+<tr>
+<td>acumCasos</td>
+<td>cantidad de casos acumulados hasta el momento</td>
+</tr>
+</tbody>
+</table>
+<p><sup>2</sup> La cantidad de casos nuevos se computa como enCurso(hoy)-enCurso(ayer)+cantRecuperados(hoy)+cantFallecidos(hoy)</p>
+<h3 id="metadatos-para-el-total-de-activos-por-departamento">Metadatos para el total de activos por departamento</h3>
 <table>
 <thead>
 <tr>
@@ -736,21 +812,6 @@
 <p>Luego del 9/4/2020</p>
 <ul>
 <li>el número indica la cantidad de casos activos a esa fecha en ese departamento, los recuperados se van restando.</li>
-</ul>
-<h2 id="origen-de-los-datos">Origen de los datos</h2>
-<p>Hasta el 7/4/2020 los datos son extraídos de los 
-<a href="https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay" target="_blank" rel="noopener">informes de situación publicados por el MSP</a>
-.
-El valor <code>N/A</code> se utiliza para indicar valores no disponibles o faltantes en los reportes.</p>
-<p>A partir del 9/4/2020 los datos se extraen del [Visualizador de casos coronavirus COVID-19 en Uruguay] (<a href="https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay">https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay</a>)</p>
-<h2 id="enlaces">Enlaces</h2>
-<ul>
-<li>
-<a href="https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto.csv" target="_blank" rel="noopener">Datos en formato CSV</a>
-</li>
-<li>
-<a href="https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/explica_estadisticasUY_porDepto.md" target="_blank" rel="noopener">Metadatos</a>
-</li>
 </ul>
 
           </div>
