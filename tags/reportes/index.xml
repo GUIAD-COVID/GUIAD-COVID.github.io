@@ -5,12 +5,31 @@
     <link>https://GUIAD-COVID.github.io/tags/reportes/</link>
       <atom:link href="https://GUIAD-COVID.github.io/tags/reportes/index.xml" rel="self" type="application/rss+xml" />
     <description>Reportes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Reportes</title>
       <link>https://GUIAD-COVID.github.io/tags/reportes/</link>
     </image>
+    
+    <item>
+      <title>Reporte 6 del grupo GUIAD-COVID 19</title>
+      <link>https://GUIAD-COVID.github.io/post/reporte6/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/reporte6/</guid>
+      <description>&lt;p&gt;Varios países comienzan a implementar aplicaciones de seguimiento de contactos con el objetivo de contener la pandemia de COVID-19. Uruguay ha anunciado su voluntad de sumarse a la propuesta presentada por Google y Apple para el desarrollo de estas aplicaciones, siendo uno de los primeros cuatro países donde se implementaría esta solución. Esta nota analiza el contexto y las características de estas aplicaciones en general, y de la solución propuesta por Google y Apple en particular, con el objetivo de aportar al diseño de una política pública para la adopción de este tipo de aplicaciones. Puede descargarse desde 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reporte 6: Aplicaciones de seguimiento de contactos en la emergencia sanitaria: aportes para el diseño y evaluación de política pública</title>
+      <link>https://GUIAD-COVID.github.io/publication/nota6/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/nota6/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reporte 5 del grupo GUIAD-COVID 19</title>
@@ -21,6 +40,14 @@
 &lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Reporte 5: Número de compartimentos involucrados en la dinámica del COVID-19 en Uruguay</title>
+      <link>https://GUIAD-COVID.github.io/publication/nota5/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/nota5/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -39,14 +66,6 @@
       <link>https://GUIAD-COVID.github.io/publication/nota4/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/publication/nota4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reporte 5: Número de compartimentos involucrados en la dinámica del COVID-19 en Uruguay</title>
-      <link>https://GUIAD-COVID.github.io/publication/nota5/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://GUIAD-COVID.github.io/publication/nota5/</guid>
       <description></description>
     </item>
     

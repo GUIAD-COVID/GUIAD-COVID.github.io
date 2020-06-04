@@ -5,7 +5,7 @@
     <link>https://GUIAD-COVID.github.io/tags/dinamica-de-crecimiento/</link>
       <atom:link href="https://GUIAD-COVID.github.io/tags/dinamica-de-crecimiento/index.xml" rel="self" type="application/rss+xml" />
     <description>Dinámica de crecimiento</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dinámica de crecimiento</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Reporte 4: Evidencia del impacto sobre la evolución de la epidemia de algunas medidas de control</title>
-      <link>https://GUIAD-COVID.github.io/publication/nota4/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://GUIAD-COVID.github.io/publication/nota4/</guid>
+      <title>Reporte 5: Número de compartimentos involucrados en la dinámica del COVID-19 en Uruguay</title>
+      <link>https://GUIAD-COVID.github.io/publication/nota5/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/nota5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Reporte 5: Número de compartimentos involucrados en la dinámica del COVID-19 en Uruguay</title>
-      <link>https://GUIAD-COVID.github.io/publication/nota5/</link>
+      <title>Reporte 4: Evidencia del impacto sobre la evolución de la epidemia de algunas medidas de control</title>
+      <link>https://GUIAD-COVID.github.io/publication/nota4/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://GUIAD-COVID.github.io/publication/nota5/</guid>
+      <guid>https://GUIAD-COVID.github.io/publication/nota4/</guid>
       <description></description>
     </item>
     
