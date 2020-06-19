@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GUIAD-COVID-19</title>
-    <link>https://GUIAD-COVID.github.io/authors/jrleon/</link>
-      <atom:link href="https://GUIAD-COVID.github.io/authors/jrleon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://GUIAD-COVID.github.io/authors/gbello/</link>
+      <atom:link href="https://GUIAD-COVID.github.io/authors/gbello/index.xml" rel="self" type="application/rss+xml" />
     <description>GUIAD-COVID-19</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GUIAD-COVID-19</title>
-      <link>https://GUIAD-COVID.github.io/authors/jrleon/</link>
+      <link>https://GUIAD-COVID.github.io/authors/gbello/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://GUIAD-COVID.github.io/publication/nota7/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/publication/nota7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reporte 5: Número de compartimentos involucrados en la dinámica del COVID-19 en Uruguay</title>
-      <link>https://GUIAD-COVID.github.io/publication/nota5/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://GUIAD-COVID.github.io/publication/nota5/</guid>
       <description></description>
     </item>
     
