@@ -5,12 +5,28 @@
     <link>https://GUIAD-COVID.github.io/post/</link>
       <atom:link href="https://GUIAD-COVID.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://GUIAD-COVID.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Reporte 8: Eventos de supercontagio</title>
+      <link>https://GUIAD-COVID.github.io/post/reporte8/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/reporte8/</guid>
+      <description>&lt;p&gt;Fiestas, frigoríficos, residenciales de ancianos. Todos hemos visto, desde el comienzo de la pandemia, este tipo de eventos donde un gran número de personas se contagia al mismo tiempo.
+Estos eventos, conocidos como eventos de supercontagio, presentan un riesgo importante para el manejo de la pandemia de COVID-19 en los próximos
+meses. En esta nota intentamos repasar la literatura existente sobre eventos de supercontagio en el mundo,  evaluar su importancia en el marco de
+la COVID-19, y presentar algunas posibles acciones que, a través del control de este tipo de
+eventos, podrían ser útiles para el manejo general de la pandemia, en especial en el caso de
+Uruguay. Puede descargarse desde 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Reporte 7: El efecto de la movilidad en la propagación de la epidemia</title>
