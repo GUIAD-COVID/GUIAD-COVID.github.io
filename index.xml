@@ -5,7 +5,7 @@
     <link>https://GUIAD-COVID.github.io/</link>
       <atom:link href="https://GUIAD-COVID.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>GUIAD-COVID-19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GUIAD-COVID-19</title>
@@ -291,6 +291,33 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
 &lt;a href=&#34;https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/explica_estadisticasUY.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metadata&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conductas cotidianas para la contención de la epidemia: nosotros podemos frenar al COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/post/triptico/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/triptico/</guid>
+      <description>&lt;p&gt;Está disponible para descargar una serie de recomendaciones y buenas prácticas para contener la expansión del virus, elaboradas por miembros de GUIAD-COVID-19 y el GACH, y con diseño del Servicio de Comunicación y Publicaciones de la FADU-Udelar. Puede descargarse en formato PDF desde 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./tripticoGACH_GUIAD_diciembre2020.jpg&#34; alt=&#34;jpg&#34;&gt;
+&lt;img src=&#34;./tripticoGACH_GUIAD_diciembre2020_1.jpg&#34; alt=&#34;jpg&#34;&gt;
+&lt;img src=&#34;./tripticoGACH_GUIAD_diciembre2020_2.jpg&#34; alt=&#34;jpg&#34;&gt;
+&lt;img src=&#34;./tripticoGACH_GUIAD_diciembre2020_3.jpg&#34; alt=&#34;jpg&#34;&gt;
+&lt;img src=&#34;./tripticoGACH_GUIAD_diciembre2020_4.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conductas cotidianas para la contención de la epidemia: nosotros podemos frenar al COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/publication/triptico/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/triptico/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;tripticoGACH_GUIAD_diciembre2020.pdf&#34;&gt;Descargar (PDF)&lt;/a&gt;
+&lt;/p&gt;
 </description>
     </item>
     
