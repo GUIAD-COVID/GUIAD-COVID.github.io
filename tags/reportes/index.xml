@@ -5,12 +5,23 @@
     <link>https://GUIAD-COVID.github.io/tags/reportes/</link>
       <atom:link href="https://GUIAD-COVID.github.io/tags/reportes/index.xml" rel="self" type="application/rss+xml" />
     <description>Reportes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Reportes</title>
       <link>https://GUIAD-COVID.github.io/tags/reportes/</link>
     </image>
+    
+    <item>
+      <title>Evolución del porcentaje de casos nuevos desde Mayo 2020</title>
+      <link>https://GUIAD-COVID.github.io/post/evolucionp7/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/evolucionp7/</guid>
+      <description>&lt;p&gt;Elaboramos una animación, en base a los datos recopilados, que permite ver la evolución del porcentaje de casos nuevos en los últimos 7 días (cada 100.000 habitantes). La animación puede verse 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/evolucionP7.html&#34;&gt;aqui&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conductas cotidianas para la contención de la epidemia: nosotros podemos frenar al COVID-19</title>
