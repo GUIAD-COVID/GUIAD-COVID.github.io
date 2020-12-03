@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://GUIAD-COVID.github.io/visual/visualesuy/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://GUIAD-COVID.github.io/integrantes/</loc>
   </url>
   
@@ -309,6 +314,11 @@
   </url>
   
   <url>
+    <loc>https://GUIAD-COVID.github.io/visual/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://GUIAD-COVID.github.io/post/reportes1-2/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -330,10 +340,6 @@
   
   <url>
     <loc>https://GUIAD-COVID.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://GUIAD-COVID.github.io/vis/</loc>
   </url>
   
 </urlset>
