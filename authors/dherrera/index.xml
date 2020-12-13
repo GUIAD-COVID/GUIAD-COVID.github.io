@@ -5,12 +5,23 @@
     <link>https://GUIAD-COVID.github.io/authors/dherrera/</link>
       <atom:link href="https://GUIAD-COVID.github.io/authors/dherrera/index.xml" rel="self" type="application/rss+xml" />
     <description>GUIAD-COVID-19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GUIAD-COVID-19</title>
       <link>https://GUIAD-COVID.github.io/authors/dherrera/</link>
     </image>
+    
+    <item>
+      <title>Reporte 10: Casos graves, críticos y muertes entre infectados por SARS-CoV-2 por franja etaria</title>
+      <link>https://GUIAD-COVID.github.io/publication/nota10/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/nota10/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;Nota_10_casos_por_franja_etaria_GUIAD-Covid19.pdf&#34;&gt;Descargar reporte completo (PDF)&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conductas cotidianas para la contención de la epidemia: nosotros podemos frenar al COVID-19</title>

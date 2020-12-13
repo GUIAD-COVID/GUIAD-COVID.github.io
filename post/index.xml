@@ -5,12 +5,30 @@
     <link>https://GUIAD-COVID.github.io/post/</link>
       <atom:link href="https://GUIAD-COVID.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://GUIAD-COVID.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Reporte 10: Casos graves, críticos y muertes entre infectados por SARS-CoV-2 por franja etaria</title>
+      <link>https://GUIAD-COVID.github.io/post/reporte10/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/reporte10/</guid>
+      <description>&lt;p&gt;En este trabajo usamos datos internacionales para estimar el porcentaje de personas infectadas con el
+virus SARS-CoV-2 que requieren hospitalización o cuidados intensivos para cada rango etario. De
+acuerdo con otros trabajos y con los datos reportados en Uruguay, encontramos que aunque las
+muertes se concentran principalmente entre las personas de avanzada edad, los ingresos a CTI y las
+hospitalizaciones se dan de forma más pareja entre las diferentes edades. Por ejemplo,
+mientras que una persona de 22 años tiene una probabilidad 190 veces menor de morir por una
+infección de COVID-19 que la de una persona de 72 años, su probabilidad de adquirir un cuadro grave
+que requiera hospitalización es sólo 12 veces menor. Puede descargarse desde 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Evolución del porcentaje de casos nuevos desde Mayo 2020</title>
