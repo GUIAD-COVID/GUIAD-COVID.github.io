@@ -5,7 +5,7 @@
     <link>https://GUIAD-COVID.github.io/</link>
       <atom:link href="https://GUIAD-COVID.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>GUIAD-COVID-19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GUIAD-COVID-19</title>
@@ -291,6 +291,33 @@ El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponi
 &lt;a href=&#34;https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/explica_estadisticasUY.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metadata&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ideas para socializar bajando los riesgos de contagio</title>
+      <link>https://GUIAD-COVID.github.io/publication/ideas/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burbujas sociales</title>
+      <link>https://GUIAD-COVID.github.io/publication/burbujas/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/burbujas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burbujas, atajos e ideas para socializar bajando los riesgos de contagio</title>
+      <link>https://GUIAD-COVID.github.io/post/burbujas/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/burbujas/</guid>
+      <description>&lt;p&gt;Está disponible para descargar más material gráfico con recomendaciones y buenas prácticas para contener la expansión del virus. Estos materiales, elaborados por miembros de GUIAD-COVID-19, del Servicio de Comunicación y Publicaciones de la FADU-Udelar, y el equipo de comunicación del Rectorado de la Udelar, fueron diseñados para compartir en las redes sociales. Pueden descargarse desde la sección 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos y divulgación&lt;/a&gt;
+ .&lt;/p&gt;
 </description>
     </item>
     

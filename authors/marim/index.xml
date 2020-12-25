@@ -5,12 +5,20 @@
     <link>https://GUIAD-COVID.github.io/authors/marim/</link>
       <atom:link href="https://GUIAD-COVID.github.io/authors/marim/index.xml" rel="self" type="application/rss+xml" />
     <description>GUIAD-COVID-19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2020)</copyright><lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GUIAD-COVID-19</title>
       <link>https://GUIAD-COVID.github.io/authors/marim/</link>
     </image>
+    
+    <item>
+      <title>Burbujas sociales</title>
+      <link>https://GUIAD-COVID.github.io/publication/burbujas/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/burbujas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conductas cotidianas para la contención de la epidemia: nosotros podemos frenar al COVID-19</title>
