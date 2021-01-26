@@ -5,12 +5,20 @@
     <link>https://GUIAD-COVID.github.io/tags/infografias/</link>
       <atom:link href="https://GUIAD-COVID.github.io/tags/infografias/index.xml" rel="self" type="application/rss+xml" />
     <description>Infografías</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Infografías</title>
       <link>https://GUIAD-COVID.github.io/tags/infografias/</link>
     </image>
+    
+    <item>
+      <title>Presentación clínica y síntomas más comunes de COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/publication/sintomas/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/sintomas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ideas para socializar bajando los riesgos de contagio</title>
