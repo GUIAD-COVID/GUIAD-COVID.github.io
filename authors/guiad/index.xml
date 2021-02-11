@@ -5,12 +5,26 @@
     <link>https://GUIAD-COVID.github.io/authors/guiad/</link>
       <atom:link href="https://GUIAD-COVID.github.io/authors/guiad/index.xml" rel="self" type="application/rss+xml" />
     <description>GUIAD-COVID-19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GUIAD-COVID-19</title>
       <link>https://GUIAD-COVID.github.io/authors/guiad/</link>
     </image>
+    
+    <item>
+      <title>Reporte 11: Efecto de la reducción de movilidad en la segunda ola de COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/post/reporte11/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/reporte11/</guid>
+      <description>&lt;p&gt;En este trabajo estudiamos el efecto de medidas de restricción de movilidad en la curva de contagios, para un grupo de países similares a Uruguay en diferentes aspectos: la cantidad de habitantes, el esfuerzo de testeo, y el haber logrado controlar la epidemia en ciertos períodos.
+Se observa que la movilidad se encuentra en relación directa con las medidas gubernamentales: a mayores niveles de medidas restrictivas la movilidad se encuentra más reducida. También se analiza la influencia de la reducción de movilidad sobre la velocidad de crecimiento/decrecimiento del indicador P7 (promedio en 7 días de casos nuevos por cada 100.000 habitantes), y se muestra que niveles altos de reducción de movilidad dan lugar a un decrecimiento en el índice.
+Finalmente, se realizan algunas observaciones sobre la duración necesaria de las restricciones de movilidad en función del nivel del máximo del P7, así como el riesgo de levantar las medidas demasiado pronto.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Puede descargarse desde 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Burbujas, atajos e ideas para socializar bajando los riesgos de contagio</title>

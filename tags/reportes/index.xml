@@ -5,12 +5,37 @@
     <link>https://GUIAD-COVID.github.io/tags/reportes/</link>
       <atom:link href="https://GUIAD-COVID.github.io/tags/reportes/index.xml" rel="self" type="application/rss+xml" />
     <description>Reportes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Reportes</title>
       <link>https://GUIAD-COVID.github.io/tags/reportes/</link>
     </image>
+    
+    <item>
+      <title>Reporte 11: Efecto de la reducción de movilidad en la segunda ola de COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/post/reporte11/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/reporte11/</guid>
+      <description>&lt;p&gt;En este trabajo estudiamos el efecto de medidas de restricción de movilidad en la curva de contagios, para un grupo de países similares a Uruguay en diferentes aspectos: la cantidad de habitantes, el esfuerzo de testeo, y el haber logrado controlar la epidemia en ciertos períodos.
+Se observa que la movilidad se encuentra en relación directa con las medidas gubernamentales: a mayores niveles de medidas restrictivas la movilidad se encuentra más reducida. También se analiza la influencia de la reducción de movilidad sobre la velocidad de crecimiento/decrecimiento del indicador P7 (promedio en 7 días de casos nuevos por cada 100.000 habitantes), y se muestra que niveles altos de reducción de movilidad dan lugar a un decrecimiento en el índice.
+Finalmente, se realizan algunas observaciones sobre la duración necesaria de las restricciones de movilidad en función del nivel del máximo del P7, así como el riesgo de levantar las medidas demasiado pronto.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Puede descargarse desde 
+&lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reporte 11: Efecto de la reducción de movilidad en la segunda ola de COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/publication/nota11/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/nota11/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;Nota_11_Efecto_de_la_reduccio%cc%81n_de_movilidad_en_la_2da_ola_GUIAD-Covid19.pdf&#34;&gt;Descargar reporte completo (PDF)&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Reporte 10: Casos graves, críticos y muertes entre infectados por SARS-CoV-2 por franja etaria</title>
