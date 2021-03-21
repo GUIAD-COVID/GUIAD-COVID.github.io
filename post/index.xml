@@ -5,12 +5,33 @@
     <link>https://GUIAD-COVID.github.io/post/</link>
       <atom:link href="https://GUIAD-COVID.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://GUIAD-COVID.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Comunicado a la población del GUIAD-COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/post/declaracionguiad/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/post/declaracionguiad/</guid>
+      <description>&lt;p&gt;El Grupo Uruguayo Interdisciplinario de Análisis de Datos (GUIAD-COVID-19) es un conjunto de
+investigadores/as de la virología, inmunología, bioquímica, biofísica, bioinformática,
+matemática, física, ecología, biología molecular, sociología, ciencias de datos, bioética, y
+profesionales de la medicina comunitaria, epidemiología, medicina intensiva, medicina interna,
+enfermedades infecciosas, ingeniería e informática. Desde el arribo de la pandemia nos hemos
+propuesto aportar en la mitigación del impacto del COVID-19 a partir del análisis de datos
+relacionados con esta enfermedad, la revisión constante de la literatura, y la difusión de
+conocimiento. &lt;em&gt;En este momento sentimos el compromiso ético de expresar a la opinión pública
+de Uruguay nuestra alarma por la situación que atraviesa nuestro país en relación a la
+pandemia&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;El texto completo del comunicado a la población puede descargarse 
+&lt;a href=&#34;./Declaraci%c3%b3nGUIAD.pdf&#34;&gt;aquí&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Reporte 11: Efecto de la reducción de movilidad en la segunda ola de COVID-19</title>
