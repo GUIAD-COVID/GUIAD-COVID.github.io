@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GUIAD-COVID-19</title>
+    <link>https://GUIAD-COVID.github.io/authors/emordecki/</link>
+      <atom:link href="https://GUIAD-COVID.github.io/authors/emordecki/index.xml" rel="self" type="application/rss+xml" />
+    <description>GUIAD-COVID-19</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>GUIAD-COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/authors/emordecki/</link>
+    </image>
+    
+    <item>
+      <title>Reporte 12: Relación entre movilidad y tasa de reproducción</title>
+      <link>https://GUIAD-COVID.github.io/publication/nota12/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/publication/nota12/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;Nota_12_Relacion_entre_movilidad_y_tasa_de_reproduccion_GUIAD-Covid19.pdf&#34;&gt;Descargar reporte completo (PDF)&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
